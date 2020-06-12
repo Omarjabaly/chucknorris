@@ -23,6 +23,10 @@ class App extends Component {
      .then(dispQuote => { this.setState({chuckQuote: dispQuote.value} ) })
   }
 
+  componentDidMount() {
+        window.scrollTo(0, 0)
+  }
+
   render() {
 
     return (
@@ -32,6 +36,7 @@ class App extends Component {
         <h1 style = {{ color: '#FFC300' }}> Chuck Norris Memes </h1>
         <p className = 'f3' style = {{ color: 'black' }}> the very best of Chuck Norris jokes </p>
         <ChuckQuote chuckQuoteToDisp={this.state.chuckQuote} topic={this.state.topic} />
+        <p className = 'f3' style = {{ color: 'black' }}> choose category </p>
         <ButtonList getChuckQuote={this.getQuote} />
       </div>
 
