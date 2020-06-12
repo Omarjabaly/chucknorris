@@ -31,9 +31,8 @@ class App extends Component {
 
         <h1 style = {{ color: '#FFC300' }}> Chuck Norris Memes </h1>
         <p className = 'f3' style = {{ color: 'black' }}> the very best of Chuck Norris jokes </p>
-        <ButtonList getChuckQuote={this.getQuote} />
         <ChuckQuote chuckQuoteToDisp={this.state.chuckQuote} topic={this.state.topic} />
-
+        <ButtonList getChuckQuote={this.getQuote} />
       </div>
 
       );
