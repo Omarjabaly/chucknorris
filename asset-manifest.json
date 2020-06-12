@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/chucknorris/static/css/main.65a00982.chunk.css",
+    "main.js": "/chucknorris/static/js/main.ac2966de.chunk.js",
+    "main.js.map": "/chucknorris/static/js/main.ac2966de.chunk.js.map",
+    "runtime-main.js": "/chucknorris/static/js/runtime-main.14e2fa2e.js",
+    "runtime-main.js.map": "/chucknorris/static/js/runtime-main.14e2fa2e.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/chucknorris/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.83686f8a.chunk.js": "/chucknorris/static/js/2.83686f8a.chunk.js",
+    "static/js/2.83686f8a.chunk.js.map": "/chucknorris/static/js/2.83686f8a.chunk.js.map",
+    "index.html": "/chucknorris/index.html",
+    "precache-manifest.75aea444866a4f2a16d1d16464f6d160.js": "/chucknorris/precache-manifest.75aea444866a4f2a16d1d16464f6d160.js",
+    "service-worker.js": "/chucknorris/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/chucknorris/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.65a00982.chunk.css.map": "/chucknorris/static/css/main.65a00982.chunk.css.map",
+    "static/js/2.83686f8a.chunk.js.LICENSE.txt": "/chucknorris/static/js/2.83686f8a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/chucknorris/static/media/ComicHelvetic_Medium.3becd575.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14e2fa2e.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.83686f8a.chunk.js",
+    "static/css/main.65a00982.chunk.css",
+    "static/js/main.ac2966de.chunk.js"
+  ]
+}
