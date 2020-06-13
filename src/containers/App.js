@@ -33,8 +33,7 @@ class App extends Component {
 
       <div className='tc' style={{ fontFamily: 'ComicHelvetic'}}>
 
-        <h1 style = {{ color: '#FFC300' }}> Chuck Norris Memes </h1>
-        <p className = 'f3' style = {{ color: 'black' }}> the very best of Chuck Norris jokes </p>
+        <h1 style = {{ color: '#FFC300' }}> The Best of Chuck Norris Quotes </h1>
         <ChuckQuote chuckQuoteToDisp={this.state.chuckQuote} topic={this.state.topic} />
         <p className = 'f3' style = {{ color: 'black' }}> choose category </p>
         <ButtonList getChuckQuote={this.getQuote} />
